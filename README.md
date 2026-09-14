@@ -1,4 +1,10 @@
-## Hi there 👋
+Salut! C'est Aymen, lycéen en terminale en Algérie, future étudiant en informatique. 
+
+Mon objectif de carrière est cyber securite ( passerelle vers lille).
+
+Je suis actuellement entrain d'apprendre Linux, Réseaux, Python et les bases sur TryHackMe.
+
+
 
 <!--
 **aymenguenane20-arch/aymenguenane20-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
